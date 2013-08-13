@@ -1,4 +1,5 @@
-Physics
-=======
+##Physics##
 
-"The Feynman lectures on physics" - Quick Notes
+__"The Feynman lectures on physics" - Quick Notes__  
+
+Author: Ganessh Kumar [ganessh@ganesshkumar.com]()
