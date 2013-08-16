@@ -30,3 +30,10 @@ __NaCl dissolving in water__: Sodium chloride(NaCl) is a tightly packed crystal 
 
 When the water is heated, the process of salt dissolving in water happens faster, as water molecules will be moving faster.
 
+###1.4 Chemical reaction###
+
+>The process in which the rearrangement of atomic pattern occurs is called a chemical reaction
+
+__Burning of carbon in oxygen__: When carbon(solid crystal) in burned in oxygen, each oxygen atom in oxygen molecule combines with a carbon atom to form carbon monoxide. The combination is so vigorous that everything around them will pick up energy. Thus kinetic energy is generated. This is called `burning`. The heat felt is due to the motion of hot gas. In certain circumstances the energy is so enormous that light is also generated.
+
+The carbon monoxide(CO) formed may combine with one of the atoms in oxygen molecule to from carbon dioxide. Usually, rapid burning under limited supply of oxygen(as in engine etc) will produce more CO. 
