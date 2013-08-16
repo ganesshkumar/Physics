@@ -5,7 +5,7 @@ __Principle of Science__: _The test of all knowledge is experiment_
 
 ###1.2 Matter is made of atoms###
 
-__Atomic hypothesis:__ _All things are made of atoms - little particles that move around in perpetual motion, attracting each other when they are a little distance apart, but repellingupon being squeezed into one another_
+__Atomic hypothesis:__ _All things are made of atoms - little particles that move around in perpetual motion, attracting each other when they are a little distance apart, but repelling upon being squeezed into one another_
 
 In water, the water molecules are held together by the attraction between each and every water molecules(that are closer). This results in the motion of water molecules. 
 
@@ -32,7 +32,7 @@ When the water is heated, the process of salt dissolving in water happens faster
 
 ###1.4 Chemical reaction###
 
->The process in which the rearrangement of atomic pattern occurs is called a chemical reaction
+>The process in which the rearrangement of atomic pattern occurs is called a __chemical reaction__
 
 __Burning of carbon in oxygen__: When carbon(solid crystal) in burned in oxygen, each oxygen atom in oxygen molecule combines with a carbon atom to form carbon monoxide. The combination is so vigorous that everything around them will pick up energy. Thus kinetic energy is generated. This is called `burning`. The heat felt is due to the motion of hot gas. In certain circumstances the energy is so enormous that light is also generated.
 
