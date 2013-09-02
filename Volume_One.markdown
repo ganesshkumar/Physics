@@ -1,5 +1,6 @@
-##Atoms in Motion##
-###1.1 Introduction###
+
+#Atoms in Motion#
+####1.1 Introduction####
 
 __Principle of Science__: _The test of all knowledge is experiment_
 
@@ -7,13 +8,14 @@ __Principle of Science__: _The test of all knowledge is experiment_
 
 __Atomic hypothesis:__ _All things are made of atoms - little particles that move around in perpetual motion, attracting each other when they are a little distance apart, but repelling upon being squeezed into one another_
 
-In water, the water molecules are held together by the attraction between each and every water molecules(that are closer). This results in the motion of water molecules. 
+In water, the water molecules are held together by the attraction between each and every water molecules(that are closer). This results in the motion of water molecules. `qwert`
 
 When water is heated, the molecules start moving faster and the inter-molecular space increases. At boiling point they inter-molecular is so much that they fly away from each other forming steam.
 
 When water is cooled, they motion of the molecules slows down and gets locked into a pattern, thus forming ice.
 
 >At absolute zero, the atoms will have miminum amount of vibration the atoms can have, but not zero
+Phys
 
 In a closed container filled with gas atoms,
 
@@ -38,11 +40,30 @@ __Burning of carbon in oxygen__: When carbon(solid crystal) in burned in oxygen,
 
 The carbon monoxide(CO) formed may combine with one of the atoms in oxygen molecule to from carbon dioxide. Usually, rapid burning under limited supply of oxygen(as in engine etc) will produce more CO. 
 
-***
 
-##Basic Physics##
+#Basic Physics#
+
 ###2.1 Introduction###
 > Observation, reason and experiment make up what we call the scientific method
+
+###Physics before 1920###
+
+* Space is a three dimension space of geometry changing in a medium called time.
+* Two basic properties of particles:
+  * **Property of inertia**: If a particle is moving, it keeps on moving in the same direction unless acted upon by some force
+  * **Force**: 1. Short ranged stronger force  2. Long ranged, smooth and quiet attraction force that varies inversely as the square of distance
+* 92 kinds of atom
+* Picture of Atom
+  * Nucleus - positive charge
+  * Electrons - negative charge
+  * Nucleus has protons(light weight and positively charged) and neutrons(heavy and neutral)
+  * Number of protons and electons are equal
+* Discovery of **elctric field**
+  * charges create field in space
+  * charges in field experience force and move
+* Changing electric field produced magnetism
+* Elecomagnetic field carry the wave
+
 
 
 
